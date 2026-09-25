@@ -1,0 +1,18 @@
+Position,Archetype,Stats Used,Attributes
+PF/C,Stretch Big,"3PA, 3P%, 3PAr, Low 2PA, Low ORB%, Low FTr", "Spaces floor, hits 3s"
+PF/C,Rim running shotblocker,"2P%, BLK, FG%, TS%, ORB%, DRB%, Low USG%, Low 3PAr, Low AST%","Lob threat, rim protector"
+PF/C,Interior Creator,"FTr, AST, PTS, TRB, USG%, OBPM, OWS",Offense flows through post; draws doubles; elite touch
+PG/SG,Combo Guard,"PTS, USG%, FGA, 3PA, TOV%","Ball-dominant, scores off dribble"
+PG/SG,Lead Playmaker,"AST%, USG%, PTS, OBPM, High AST/TOV Ratio","Initiates offense, creates for others, usually number 1 scoring option, engine of team"
+PG/SG,Secondary Playmaker,"Low USG%, High AST/TOV Ratio, Above average AST%","Facilitates offense, low usage player, efficient, not a main scoring option"
+PG/SG,Pitbull,"STL, STL%, Low USG%, Low 3P%, DBPM, DWS","Hyperactive defender, picks up full court, may be too small to be point of attack defender"
+SG/SF,3&D Specialist,"3PA, 3P%, DBPM, STL%, Low TOV%, 3PAr, Low AST%, Low USG%","Spot up shooter, perimeter defender (usually point of attack defender)"
+SG/SF,2 Way Player,"DBPM, OBPM, PTS, Higher USG% than 3&D","Not necesserily a specialist, can create for themselves, can play off ball spot up shooter, either point of attack or secondary defender"
+SG/SF/PF,Slasher,"FTA, FTr, Average 3P%, 2P%, USG%, Low 3PAr","Attacks rim, draws lots of fouls, average 3pt shooter"
+SF/PF,Point Forward,"AST%, USG%, TRB, OBPM, VORP","Initiates offense from wing, all around player, creates for others/defends, can score"
+SG/SF,Shooter,"3PA, 3PAr, eFG%, Low USG%, Low TOV%, Low FTA, Low FTr, Low AST%, Low ORB%","Only on the floor to shoot 3s, space the floor, specialist"
+SG/SF/PF,Switchable defender,"STL, BLK, Low USG%, DBPM, DWS, Low AST%, BLK%, STL%","Switchable wing defender, can usually guard 1-5, All defensive caliber"
+SF/PF,Playmaking forward,"AST%, Low 3PA, 2P%",Facilitator from high-post or short-roll
+PG/SG/SF,Microwave,"High USG%, PTS/36 mins, Low DBPM, Low DWS, Maybe Low FG%, TO%","Instant offense off bench, not a great defender, not a primary creator for others"
+SG/SF/PF,Glue guy,"Moderate AST%, Low TO%, TS%, Low USG%, WS/48","Doesn't need touches, keeps offense flowing, high IQ"
+SG/SF/PF,Athletic finisher,"Low USG%, Low 3Pr, FG%, 2P%, ORB%","Generates easy points in open court, thrives on pace"

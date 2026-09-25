@@ -1,0 +1,813 @@
+Player,Team,Pos,Archetype
+Joel Embiid,PHI,C,Interior Creator
+LeBron James,LAL,PF,Point Forward
+Giannis Antetokounmpo,MIL,PF,Interior Creator
+Kevin Durant,BRK,PF,2 Way Player
+Luka Dončić,DAL,PG,Lead Playmaker
+Trae Young,ATL,PG,Lead Playmaker
+DeMar DeRozan,CHI,PF,Playmaking forward
+Kyrie Irving,BRK,PG,Combo Guard
+Ja Morant,MEM,PG,Lead Playmaker
+Nikola Jokić,DEN,C,Interior Creator
+Jayson Tatum,BOS,SF,2 Way Player
+Devin Booker,PHO,SG,Combo Guard
+Donovan Mitchell,UTA,SG,Combo Guard
+Stephen Curry,GSW,PG,Lead Playmaker
+Karl-Anthony Towns,MIN,C,Interior Creator
+Shai Gilgeous-Alexander,OKC,PG,Lead Playmaker
+Zach LaVine,CHI,SG,Slasher
+Paul George,LAC,PF,Point Forward
+Damian Lillard,POR,PG,Lead Playmaker
+Jaylen Brown,BOS,SF,2 Way Player
+Bradley Beal,WAS,SG,Lead Playmaker
+Anthony Davis,LAL,C,Interior Creator
+De'Aaron Fox,SAC,PG,Lead Playmaker
+Pascal Siakam,TOR,PF,Interior Creator
+Brandon Ingram,NOP,SF,Point Forward
+CJ McCollum,2TM,PG,Combo Guard
+CJ McCollum,POR,SG,Combo Guard
+CJ McCollum,NOP,PG,Combo Guard
+James Harden,2TM,PG,Combo Guard
+James Harden,BRK,PG,Combo Guard
+James Harden,PHI,PG,Lead Playmaker
+Darius Garland,CLE,PG,Combo Guard
+Jimmy Butler,MIA,SF,2 Way Player
+Anthony Edwards,MIN,SG,Combo Guard
+Dejounte Murray,SAS,PG,Lead Playmaker
+Tyler Herro,MIA,SG,Combo Guard
+Klay Thompson,GSW,SG,Combo Guard
+Fred VanVleet,TOR,PG,Lead Playmaker
+Kristaps Porziņģis,2TM,PF,Interior Creator
+Kristaps Porziņģis,DAL,PF,Interior Creator
+Kristaps Porziņģis,WAS,PF,Interior Creator
+Miles Bridges,CHO,PF,2 Way Player
+LaMelo Ball,CHO,PG,Lead Playmaker
+Khris Middleton,MIL,SF,Slasher
+Julius Randle,NYK,PF,Point Forward
+RJ Barrett,NYK,SF,Slasher
+Terry Rozier,CHO,SG,Combo Guard
+Jerami Grant,DET,PF,Interior Creator
+Bam Adebayo,MIA,C,Interior Creator
+Malcolm Brogdon,IND,PG,Lead Playmaker
+Norman Powell,2TM,SF,Microwave
+Norman Powell,POR,SF,Slasher
+Norman Powell,LAC,SG,Microwave
+Domantas Sabonis,2TM,PF,Interior Creator
+Domantas Sabonis,IND,PF,Interior Creator
+Domantas Sabonis,SAC,PF,Interior Creator
+Jordan Poole,GSW,SG,Combo Guard
+Russell Westbrook,LAL,PG,Lead Playmaker
+Dillon Brooks,MEM,SF,3&D Specialist
+Jrue Holiday,MIL,PG,Lead Playmaker
+Gary Trent Jr.,TOR,SG,2 Way Player
+Desmond Bane,MEM,SG,2 Way Player
+Bojan Bogdanović,UTA,PF,Stretch Big
+D'Angelo Russell,MIN,PG,Combo Guard
+Christian Wood,HOU,C,Interior Creator
+Jonas Valančiūnas,NOP,C,Interior Creator
+Nikola Vučević,CHI,C,Interior Creator
+Tyrese Maxey,PHI,PG,Combo Guard
+Cade Cunningham,DET,SG,Combo Guard
+Jalen Green,HOU,SG,Combo Guard
+Anfernee Simons,POR,SG,Combo Guard
+Deandre Ayton,PHO,C,Rim running shotblocker
+Luguentz Dort,OKC,SG,Pitbull
+Tobias Harris,PHI,PF,Point Forward
+Andrew Wiggins,GSW,SF,2 Way Player
+OG Anunoby,TOR,SF,2 Way Player
+Kyle Kuzma,WAS,PF,Point Forward
+Caris LeVert,2TM,SG,Secondary Playmaker
+Caris LeVert,IND,SG,Secondary Playmaker
+Caris LeVert,CLE,SG,Combo Guard
+Keldon Johnson,SAS,SF,3&D Specialist
+Reggie Jackson,LAC,SG,Combo Guard
+Harrison Barnes,SAC,PF,Glue guy
+Cole Anthony,ORL,PG,Combo Guard
+Jalen Brunson,DAL,SG,Lead Playmaker
+Jaren Jackson Jr.,MEM,PF,Stretch Big
+John Collins,ATL,PF,Athletic Finisher
+Jarrett Allen,CLE,C,Rim running shotblocker
+Saddiq Bey,DET,SF,3&D Specialist
+Jordan Clarkson,UTA,SG,Combo Guard
+Collin Sexton,CLE,SG,Combo Guard
+Gordon Hayward,CHO,SF,Point Forward
+Buddy Hield,2TM,SG,Combo Guard
+Buddy Hield,SAC,SG,Combo Guard
+Buddy Hield,IND,SG,Combo Guard
+Rudy Gobert,UTA,C,Rim running shotblocker
+Kevin Porter Jr.,HOU,PG,Combo Guard
+Marcus Morris,LAC,PF,2 Way Player
+Tyrese Haliburton,2TM,PG,Lead Playmaker
+Tyrese Haliburton,SAC,SG,Lead Playmaker
+Tyrese Haliburton,IND,PG,Lead Playmaker
+Scottie Barnes,TOR,PF,Point Forward
+Franz Wagner,ORL,SF,Point Forward
+Bogdan Bogdanović,ATL,SG,Combo Guard
+Wendell Carter Jr.,ORL,PF,Interior Creator
+Seth Curry,2TM,SG,Athletic Finisher
+Seth Curry,PHI,SG,Lead Playmaker
+Seth Curry,BRK,SG,Shooter
+Aaron Gordon,DEN,PF,Athletic Finisher
+Evan Mobley,CLE,PF,Athletic Finisher
+Jusuf Nurkić,POR,C,Interior Creator
+Kelly Oubre Jr.,CHO,SF,Shooter
+Josh Hart,2TM,SG,2 Way Player
+Josh Hart,NOP,SG,Secondary Playmaker
+Josh Hart,POR,SG,Combo Guard
+Lauri Markkanen,CLE,SF,2 Way Player
+Will Barton,DEN,SG,Combo Guard
+Jaylen Hoard,OKC,SF,Unclassified
+Chris Paul,PHO,PG,Lead Playmaker
+Bobby Portis,MIL,C,Stretch Big
+Mikal Bridges,PHO,SF,3&D Specialist
+Tim Hardaway Jr.,DAL,SG,2 Way Player
+Evan Fournier,NYK,SG,Combo Guard
+Malik Monk,LAL,SG,Combo Guard
+Spencer Dinwiddie,2TM,PG,Lead Playmaker
+Spencer Dinwiddie,WAS,PG,Lead Playmaker
+Spencer Dinwiddie,DAL,PG,Lead Playmaker
+Mike Conley,UTA,PG,Lead Playmaker
+Kevin Love,CLE,C,Stretch Big
+Dennis Schröder,2TM,PG,Combo Guard
+Dennis Schröder,BOS,PG,Combo Guard
+Dennis Schröder,HOU,PG,Combo Guard
+Jakob Poeltl,SAS,C,Rim running shotblocker
+Eric Gordon,HOU,SG,Shooter
+De'Andre Hunter,ATL,SF,Slasher
+Kyle Lowry,MIA,PG,Secondary Playmaker
+Carmelo Anthony,LAL,PF,Stretch Big
+Derrick White,2TM,SG,Lead Playmaker
+Derrick White,SAS,SG,Lead Playmaker
+Derrick White,BOS,SG,Glue guy
+Kentavious Caldwell-Pope,WAS,SG,3&D Specialist
+Montrezl Harrell,2TM,C,Interior Creator
+Montrezl Harrell,WAS,C,Interior Creator
+Montrezl Harrell,CHO,C,Interior Creator
+Chris Duarte,IND,SG,Combo Guard
+Ricky Rubio,CLE,PG,Lead Playmaker
+Lonzo Ball,CHI,PG,Secondary Playmaker
+LaMarcus Aldridge,BRK,C,Rim running shotblocker
+Myles Turner,IND,C,Rim running shotblocker
+Brandon Williams,POR,PG,Combo Guard
+Coby White,CHI,PG,Combo Guard
+Monte Morris,DEN,PG,Secondary Playmaker
+Josh Giddey,OKC,SF,2 Way Player
+Cameron Johnson,PHO,PF,Switchable defender
+Brook Lopez,MIL,C,Stretch Big
+Victor Oladipo,MIA,SG,Combo Guard
+Devin Vassell,SAS,SF,2 Way Player
+Malik Beasley,MIN,SG,Shooter
+Kevin Huerter,ATL,SF,Shooter
+Marcus Smart,BOS,PG,Lead Playmaker
+Lonnie Walker IV,SAS,SG,Combo Guard
+Derrick Rose,NYK,PG,Lead Playmaker
+Devonte' Graham,NOP,PG,Lead Playmaker
+Luke Kennard,LAC,SG,Glue guy
+Jalen Suggs,ORL,PG,Combo Guard
+Jae'Sean Tate,HOU,PF,Athletic Finisher
+Alec Burks,NYK,SG,2 Way Player
+Danilo Gallinari,ATL,PF,Stretch Big
+Kemba Walker,NYK,PG,Lead Playmaker
+Davion Mitchell,SAC,PG,Combo Guard
+Cameron Oliver,ATL,SF,Glue guy
+Patty Mills,BRK,SG,Shooter
+Marvin Bagley III,2TM,PF,Athletic Finisher
+Marvin Bagley III,SAC,PF,Athletic Finisher
+Marvin Bagley III,DET,PF,Athletic Finisher
+Rui Hachimura,WAS,PF,Stretch Big
+Joe Harris,BRK,SF,Shooter
+Doug McDermott,SAS,PF,Shooter
+Immanuel Quickley,NYK,PG,Combo Guard
+Grayson Allen,MIL,SG,Shooter
+Clint Capela,ATL,C,Rim running shotblocker
+Gary Harris,ORL,SG,Shooter
+Hamidou Diallo,DET,SG,2 Way Player
+Dorian Finney-Smith,DAL,PF,Switchable defender
+Zavier Simpson,OKC,PG,Secondary Playmaker
+Duncan Robinson,MIA,SG,Shooter
+Darius Bazley,OKC,PF,Switchable defender
+Markelle Fultz,ORL,PG,Lead Playmaker
+Terance Mann,LAC,SF,Secondary Playmaker
+De'Anthony Melton,MEM,SG,2 Way Player
+Cameron Payne,PHO,PG,Lead Playmaker
+Melvin Frazier,OKC,SG,Combo Guard
+Cedi Osman,CLE,SF,2 Way Player
+Nickeil Alexander-Walker,2TM,SG,Combo Guard
+Nickeil Alexander-Walker,NOP,SG,Combo Guard
+Nickeil Alexander-Walker,UTA,SG,Switchable defender
+Mo Bamba,ORL,C,Rim running shotblocker
+Frank Jackson,DET,PG,Combo Guard
+Frank Kaminsky,PHO,C,Rim running shotblocker
+Max Strus,MIA,SF,Shooter
+Trey Lyles,2TM,PF,Athletic Finisher
+Trey Lyles,DET,PF,Rim running shotblocker
+Trey Lyles,SAC,PF,Athletic Finisher
+Brandon Clarke,MEM,PF,Glue guy
+Terence Davis,SAC,SG,Combo Guard
+Richaun Holmes,SAC,C,Rim running shotblocker
+Tre Mann,OKC,PG,Combo Guard
+Jeff Green,DEN,PF,Athletic Finisher
+P.J. Washington,CHO,C,Rim running shotblocker
+Ivica Zubac,LAC,C,Rim running shotblocker
+Josh Richardson,2TM,SG,3&D Specialist
+Josh Richardson,BOS,SG,Switchable defender
+Josh Richardson,SAS,SG,3&D Specialist
+Al Horford,BOS,C,Rim running shotblocker
+Ben McLemore,POR,SG,Shooter
+Cam Reddish,2TM,SF,Slasher
+Cam Reddish,ATL,SF,Microwave
+Cam Reddish,NYK,SF,Switchable defender
+Justin Holiday,2TM,SF,Shooter
+Justin Holiday,IND,SF,Shooter
+Justin Holiday,SAC,SG,Shooter
+Bones Hyland,DEN,SG,Combo Guard
+Isaiah Roby,OKC,PF,Interior Creator
+Devin Cannady,ORL,PG,Unclassified
+Talen Horton-Tucker,LAL,SG,Lead Playmaker
+Garrison Mathews,HOU,SG,3&D Specialist
+Terrence Ross,ORL,SG,Combo Guard
+Robert Williams,BOS,C,Rim running shotblocker
+Eric Bledsoe,LAC,PG,Lead Playmaker
+Pat Connaughton,MIL,SF,3&D Specialist
+Michael Porter Jr.,DEN,SF,Switchable defender
+Duane Washington Jr.,IND,PG,Combo Guard
+Nassir Little,POR,SF,Slasher
+Alperen Şengün,HOU,C,Interior Creator
+Terry Taylor,IND,PF,Athletic Finisher
+Herbert Jones,NOP,PF,Switchable defender
+Chris Boucher,TOR,SF,Athletic Finisher
+Jae Crowder,PHO,PF,Switchable defender
+Daniel Gafford,WAS,C,Rim running shotblocker
+Jaxson Hayes,NOP,C,Rim running shotblocker
+Jonathan Kuminga,GSW,SF,Slasher
+Jalen Smith,2TM,PF,Athletic Finisher
+Jalen Smith,PHO,PF,Athletic Finisher
+Jalen Smith,IND,PF,Athletic Finisher
+Reggie Perry,2TM,PF,Athletic Finisher
+Reggie Perry,POR,PF,Athletic Finisher
+Reggie Perry,IND,PF,Athletic Finisher
+Patrick Beverley,MIN,PG,Pitbull
+Caleb Martin,MIA,SF,Switchable defender
+Jaden McDaniels,MIN,PF,Rim running shotblocker
+JaVale McGee,PHO,C,Rim running shotblocker
+Georges Niang,PHI,PF,Stretch Big
+Precious Achiuwa,TOR,C,Rim running shotblocker
+Oshae Brissett,IND,SF,3&D Specialist
+Willy Hernangómez,NOP,C,Interior Creator
+Kelly Olynyk,DET,C,Interior Creator
+Donte DiVincenzo,2TM,SG,Shooter
+Donte DiVincenzo,MIL,SG,Shooter
+Donte DiVincenzo,SAC,SG,2 Way Player
+DeMarcus Cousins,2TM,C,Rim running shotblocker
+DeMarcus Cousins,MIL,C,Rim running shotblocker
+DeMarcus Cousins,DEN,C,Interior Creator
+Bruce Brown,BRK,SF,Glue guy
+Amir Coffey,LAC,SG,Glue guy
+Obi Toppin,NYK,PF,Athletic Finisher
+Moritz Wagner,ORL,C,Interior Creator
+Patrick Williams,CHI,PF,3&D Specialist
+Chimezie Metu,SAC,C,Rim running shotblocker
+Bryn Forbes,2TM,SG,Shooter
+Bryn Forbes,SAS,SG,Microwave
+Bryn Forbes,DEN,SG,Shooter
+Ayo Dosunmu,CHI,SG,Secondary Playmaker
+KJ Martin,HOU,SF,Glue guy
+Isaac Okoro,CLE,SF,Slasher
+Nic Claxton,BRK,C,Rim running shotblocker
+Tyus Jones,MEM,PG,Pitbull
+Dwight Powell,DAL,C,Rim running shotblocker
+Gabe Vincent,MIA,PG,Pitbull
+Reggie Bullock,DAL,SF,3&D Specialist
+Chuma Okeke,ORL,PF,Switchable defender
+Robert Covington,2TM,PF,Switchable defender
+Robert Covington,POR,PF,Switchable defender
+Robert Covington,LAC,PF,Switchable defender
+T.J. McConnell,IND,PG,Pitbull
+Jaylen Nowell,MIN,SG,Lead Playmaker
+Mitchell Robinson,NYK,C,Rim running shotblocker
+Cam Thomas,BRK,SG,Microwave
+Isaiah Thomas,3TM,PG,Microwave
+Isaiah Thomas,LAL,PG,Combo Guard
+Isaiah Thomas,DAL,PG,Microwave
+Isaiah Thomas,CHO,PG,Microwave
+Deni Avdija,WAS,SF,Switchable defender
+Lance Stephenson,2TM,SG,Slasher
+Lance Stephenson,ATL,SG,Secondary Playmaker
+Lance Stephenson,IND,PG,Microwave
+Nicolas Batum,LAC,PF,Switchable defender
+Isaiah Hartenstein,LAC,C,Rim running shotblocker
+Isaiah Jackson,IND,C,Rim running shotblocker
+Naz Reid,MIN,C,Rim running shotblocker
+Landry Shamet,PHO,SG,3&D Specialist
+Isaiah Stewart,DET,C,Rim running shotblocker
+Aaron Wiggins,OKC,SG,Slasher
+Daniel Theis,2TM,C,Rim running shotblocker
+Daniel Theis,HOU,C,Rim running shotblocker
+Daniel Theis,BOS,C,Rim running shotblocker
+Corey Kispert,WAS,SF,Shooter
+Shake Milton,PHI,SG,Lead Playmaker
+Onyeka Okongwu,ATL,C,Rim running shotblocker
+Otto Porter Jr.,GSW,PF,Switchable defender
+Hassan Whiteside,UTA,C,Rim running shotblocker
+Rudy Gay,UTA,PF,Stretch Big
+Damian Jones,SAC,C,Rim running shotblocker
+Ziaire Williams,MEM,SF,Shooter
+Cory Joseph,DET,PG,Secondary Playmaker
+Mike Muscala,OKC,C,Stretch Big
+Malik Newman,CLE,PG,Lead Playmaker
+Lindy Waters III,OKC,SG,Shooter
+Andre Drummond,2TM,C,Interior Creator
+Andre Drummond,PHI,C,Unclassified
+Andre Drummond,BRK,C,Rim running shotblocker
+Josh Christopher,HOU,SG,Unclassified
+Jordan Nwora,MIL,SF,3&D Specialist
+Zach Collins,SAS,C,Interior Creator
+Grant Williams,BOS,PF,Switchable defender
+Drew Eubanks,2TM,C,Rim running shotblocker
+Drew Eubanks,SAS,C,Rim running shotblocker
+Drew Eubanks,POR,C,Unclassified
+Cody Martin,CHO,SF,Glue guy
+Kyle Anderson,MEM,PF,Switchable defender
+Kris Dunn,POR,PG,Lead Playmaker
+R.J. Hampton,ORL,SG,Slasher
+Furkan Korkmaz,PHI,SG,Shooter
+Markieff Morris,MIA,PF,Athletic Finisher
+Aleksej Pokusevski,OKC,PF,Point Forward
+P.J. Tucker,MIA,PF,Glue guy
+Trendon Watford,POR,SF,Playmaking forward
+Goran Dragić,2TM,PG,Secondary Playmaker
+Goran Dragić,TOR,PG,Secondary Playmaker
+Goran Dragić,BRK,PG,Secondary Playmaker
+Draymond Green,GSW,PF,Switchable defender
+Raul Neto,WAS,PG,Lead Playmaker
+Jeremiah Robinson-Earl,OKC,C,Stretch Big
+D.J. Wilson,TOR,PF,Playmaking forward
+Thomas Bryant,WAS,C,Rim running shotblocker
+Alex Caruso,CHI,SG,Pitbull
+Jared Harper,NOP,PG,Lead Playmaker
+Damion Lee,GSW,SG,Switchable defender
+Royce O'Neale,UTA,SF,Shooter
+Kenrich Williams,OKC,SF,Switchable defender
+Jeremy Lamb,2TM,SF,Slasher
+Jeremy Lamb,IND,SF,Slasher
+Jeremy Lamb,SAC,SG,Unclassified
+Wes Iwundu,ATL,SF,Unclassified
+Taurean Prince,MIN,PF,Stretch Big
+Austin Reaves,LAL,SG,Glue guy
+Keon Johnson,2TM,SG,Unclassified
+Keon Johnson,LAC,SG,Unclassified
+Keon Johnson,POR,SG,Combo Guard
+Braxton Key,2TM,SF,Switchable defender
+Braxton Key,PHI,SF,Playmaking forward
+Braxton Key,DET,SF,Switchable defender
+Javonte Green,CHI,SF,Switchable defender
+Joe Ingles,UTA,SF,Secondary Playmaker
+Ty Jerome,OKC,SG,Shooter
+Robin Lopez,ORL,C,Rim running shotblocker
+Théo Maledon,OKC,PG,Unclassified
+Gary Payton II,GSW,SG,Switchable defender
+Larry Nance Jr.,2TM,PF,Rim running shotblocker
+Larry Nance Jr.,POR,C,Rim running shotblocker
+Larry Nance Jr.,NOP,PF,Rim running shotblocker
+Goga Bitadze,IND,C,Rim running shotblocker
+Sekou Doumbouya,LAL,PF,Athletic Finisher
+Maxi Kleber,DAL,PF,Switchable defender
+Olivier Sarr,OKC,C,Rim running shotblocker
+Steven Adams,MEM,C,Unclassified
+Killian Hayes,DET,PG,Pitbull
+Jarred Vanderbilt,MIN,PF,Rim running shotblocker
+Serge Ibaka,2TM,C,Rim running shotblocker
+Serge Ibaka,LAC,C,Rim running shotblocker
+Serge Ibaka,MIL,C,Rim running shotblocker
+Mason Jones,LAL,SG,Slasher
+Brandon Boston Jr.,LAC,SG,Unclassified
+Wayne Ellington,LAL,SG,Shooter
+Stanley Johnson,LAL,PF,Glue guy
+Georgios Kalaitzakis,2TM,SF,Slasher
+Georgios Kalaitzakis,MIL,SF,Unclassified
+Georgios Kalaitzakis,OKC,SF,Slasher
+Torrey Craig,2TM,SF,Glue guy
+Torrey Craig,IND,SF,Glue guy
+Torrey Craig,PHO,SF,Switchable defender
+Zeke Nnaji,DEN,PF,Athletic Finisher
+B.J. Johnson,ORL,SF,Unclassified
+Mason Plumlee,CHO,C,Rim running shotblocker
+Josh Jackson,2TM,SF,Slasher
+Josh Jackson,DET,SF,Slasher
+Josh Jackson,SAC,SF,Slasher
+Justin Anderson,2TM,SF,Secondary Playmaker
+Justin Anderson,CLE,SF,Secondary Playmaker
+Justin Anderson,IND,SF,Secondary Playmaker
+Avery Bradley,LAL,SG,3&D Specialist
+JaMychal Green,DEN,PF,Rim running shotblocker
+Blake Griffin,BRK,C,Rim running shotblocker
+Brandon Knight,DAL,PG,Microwave
+Isaiah Livers,DET,SF,3&D Specialist
+Ish Smith,2TM,PG,Secondary Playmaker
+Ish Smith,CHO,PG,Secondary Playmaker
+Ish Smith,WAS,PG,Secondary Playmaker
+Aaron Holiday,2TM,PG,Pitbull
+Aaron Holiday,WAS,PG,Pitbull
+Aaron Holiday,PHO,PG,Pitbull
+Dewayne Dedmon,MIA,C,Rim running shotblocker
+Hassani Gravett,ORL,PG,Secondary Playmaker
+Derrick Walton,DET,PG,Pitbull
+Lou Williams,ATL,PG,Microwave
+Chaundee Brown Jr.,2TM,SF,Shooter
+Chaundee Brown Jr.,LAL,SF,Unclassified
+Chaundee Brown Jr.,ATL,SG,3&D Specialist
+Thaddeus Young,2TM,PF,Playmaking forward
+Thaddeus Young,SAS,PF,Point Forward
+Thaddeus Young,TOR,PF,Switchable defender
+George Hill,MIL,PG,Unclassified
+Dwight Howard,LAL,C,Rim running shotblocker
+Vit Krejci,OKC,SG,Unclassified
+Jalen McDaniels,CHO,SF,Athletic Finisher
+Payton Pritchard,BOS,PG,Microwave
+Day'Ron Sharpe,BRK,PF,Athletic Finisher
+Jose Alvarado,NOP,PG,Pitbull
+Nemanja Bjelica,GSW,C,Stretch Big
+Lamar Stevens,CLE,PF,Switchable defender
+Tristan Thompson,3TM,C,Unclassified
+Tristan Thompson,SAC,C,Unclassified
+Tristan Thompson,IND,C,Unclassified
+Tristan Thompson,CHI,C,Unclassified
+Quentin Grimes,NYK,SG,3&D Specialist
+Tre Jones,SAS,PG,Pitbull
+Alex Len,SAC,C,Rim running shotblocker
+Kevon Looney,GSW,C,Rim running shotblocker
+Austin Rivers,DEN,SG,Unclassified
+Danuel House Jr.,3TM,SF,Glue guy
+Danuel House Jr.,HOU,SF,Glue guy
+Danuel House Jr.,NYK,SF,Glue guy
+Danuel House Jr.,UTA,SF,3&D Specialist
+Kessler Edwards,BRK,SF,Unclassified
+Danny Green,PHI,SF,Switchable defender
+Kira Lewis Jr.,NOP,PG,Unclassified
+Bismack Biyombo,PHO,C,Rim running shotblocker
+Carsen Edwards,DET,SG,Shooter
+CJ Elleby,POR,SF,Unclassified
+Luka Garza,DET,C,Unclassified
+Xavier Moon,LAC,SG,Athletic Finisher
+Eric Paschall,UTA,PF,Athletic Finisher
+Joshua Primo,SAS,SF,Unclassified
+Cassius Stanley,DET,SG,Unclassified
+Justise Winslow,2TM,PF,Point Forward
+Justise Winslow,LAC,PF,Playmaking forward
+Justise Winslow,POR,PF,Point Forward
+Kelan Martin,2TM,SF,Unclassified
+Kelan Martin,IND,SF,Unclassified
+Kelan Martin,BOS,SF,Unclassified
+Keita Bates-Diop,SAS,SF,Athletic Finisher
+Naji Marshall,NOP,SF,Slasher
+Matisse Thybulle,PHI,SG,Pitbull
+Dāvis Bertāns,2TM,PF,Stretch Big
+Dāvis Bertāns,WAS,PF,Stretch Big
+Dāvis Bertāns,DAL,PF,Stretch Big
+Derrick Jones Jr.,CHI,PF,Rim running shotblocker
+Saben Lee,DET,PG,Pitbull
+Dennis Smith Jr.,POR,PG,Pitbull
+Keifer Sykes,IND,PG,Unclassified
+James Johnson,BRK,PF,Playmaking forward
+Greg Monroe,4TM,C,Rim running shotblocker
+Greg Monroe,MIN,C,Rim running shotblocker
+Greg Monroe,WAS,C,Unclassified
+Greg Monroe,MIL,C,Unclassified
+Greg Monroe,UTA,C,Rim running shotblocker
+Wenyen Gabriel,3TM,PF,Rim running shotblocker
+Wenyen Gabriel,BRK,PF,Switchable defender
+Wenyen Gabriel,LAC,PF,Unclassified
+Wenyen Gabriel,LAL,PF,Athletic Finisher
+PJ Dozier,DEN,SG,Switchable defender
+Rodney McGruder,DET,SG,Glue guy
+Trey Murphy III,NOP,SF,3&D Specialist
+Armoni Brooks,2TM,SG,Shooter
+Armoni Brooks,HOU,SG,Shooter
+Armoni Brooks,TOR,PG,Pitbull
+D.J. Augustin,2TM,PG,Secondary Playmaker
+D.J. Augustin,HOU,PG,Secondary Playmaker
+D.J. Augustin,LAL,PG,Unclassified
+Derrick Favors,OKC,C,Unclassified
+Dean Wade,CLE,PF,Switchable defender
+Omer Yurtseven,MIA,C,Unclassified
+Garrett Temple,NOP,SG,Pitbull
+Cody Zeller,POR,C,Unclassified
+DeAndre' Bembry,2TM,SF,Switchable defender
+DeAndre' Bembry,BRK,SF,Switchable defender
+DeAndre' Bembry,MIL,SF,Switchable defender
+Trey Burke,DAL,PG,Unclassified
+Facundo Campazzo,DEN,PG,Pitbull
+Wesley Matthews,MIL,SG,Shooter
+David Nwaba,HOU,SF,Athletic Finisher
+Ignas Brazdeikis,ORL,SF,Glue guy
+Jock Landale,SAS,C,Rim running shotblocker
+Rajon Rondo,2TM,PG,Pitbull
+Rajon Rondo,LAL,PG,Pitbull
+Rajon Rondo,CLE,PG,Secondary Playmaker
+Brandon Goodwin,CLE,PG,Pitbull
+Josh Green,DAL,SG,Pitbull
+John Konchar,MEM,SG,Glue guy
+Xavier Tillman Sr.,MEM,PF,Switchable defender
+Udoka Azubuike,UTA,C,Rim running shotblocker
+Greg Brown III,POR,SF,Unclassified
+David Duke Jr.,BRK,PG,Pitbull
+Cameron McGriff,POR,SF,Glue guy
+James Bouknight,CHO,SG,Microwave
+Maurice Harkless,SAC,SF,Switchable defender
+Svi Mykhailiuk,TOR,SF,Shooter
+Romeo Langford,2TM,SG,Switchable defender
+Romeo Langford,BOS,SG,Switchable defender
+Romeo Langford,SAS,SG,Slasher
+Khem Birch,TOR,C,Unclassified
+Marquese Chriss,DAL,PF,Unclassified
+Louis King,SAC,SF,Playmaking forward
+Taj Gibson,NYK,C,Rim running shotblocker
+Timothé Luwawu-Cabarrot,ATL,SF,Unclassified
+Moses Moody,GSW,SG,Shooter
+Jabari Parker,BOS,PF,Switchable defender
+Davon Reed,DEN,SG,Glue guy
+Delon Wright,ATL,SG,Secondary Playmaker
+Moses Brown,2TM,C,Rim running shotblocker
+Moses Brown,DAL,C,Rim running shotblocker
+Moses Brown,CLE,C,Rim running shotblocker
+DeAndre Jordan,2TM,C,Rim running shotblocker
+DeAndre Jordan,LAL,C,Rim running shotblocker
+DeAndre Jordan,PHI,C,Rim running shotblocker
+Troy Brown Jr.,CHI,SF,Glue guy
+Mamadi Diakite,OKC,PF,Rim running shotblocker
+Malachi Flynn,TOR,PG,Pitbull
+Boban Marjanović,DAL,C,Rim running shotblocker
+Trevelin Queen,HOU,SG,Microwave
+Yuta Watanabe,TOR,SF,Unclassified
+Rayjon Tucker,2TM,SG,Secondary Playmaker
+Rayjon Tucker,DEN,SG,Glue guy
+Rayjon Tucker,MIL,SG,Secondary Playmaker
+Jevon Carter,2TM,PG,Secondary Playmaker
+Jevon Carter,BRK,PG,Pitbull
+Jevon Carter,MIL,PG,Secondary Playmaker
+Sam Merrill,MEM,SG,Shooter
+Lindell Wigginton,MIL,PG,Unclassified
+James Ennis III,3TM,SF,Unclassified
+James Ennis III,BRK,SF,Unclassified
+James Ennis III,LAC,SF,2 Way Player
+James Ennis III,DEN,SF,Playmaking forward
+Mychal Mulder,2TM,PG,Unclassified
+Mychal Mulder,ORL,PG,Unclassified
+Mychal Mulder,MIA,PG,Unclassified
+Santi Aldama,MEM,PF,Rim running shotblocker
+Vlatko Čančar,DEN,PF,Playmaking forward
+Anthony Gill,WAS,PF,Rim running shotblocker
+Markus Howard,DEN,SG,Microwave
+Frank Ntilikina,DAL,SG,Pitbull
+Juan Toscano-Anderson,GSW,SF,Switchable defender
+Mac McClung,2TM,SG,Pitbull
+Mac McClung,CHI,PG,Microwave
+Mac McClung,LAL,SG,Pitbull
+Trevor Ariza,LAL,SF,Unclassified
+Scotty Hopson,OKC,SG,Athletic Finisher
+Andre Iguodala,GSW,SF,Switchable defender
+Micah Potter,DET,C,Rim running shotblocker
+Matt Thomas,CHI,SG,Shooter
+Gabe York,IND,SG,Slasher
+Didi Louzada,2TM,SF,Unclassified
+Didi Louzada,NOP,SF,Playmaking forward
+Didi Louzada,POR,SG,Unclassified
+Kyle Guy,MIA,SG,Shooter
+Malcolm Hill,2TM,SG,Athletic Finisher
+Malcolm Hill,ATL,SG,Switchable defender
+Malcolm Hill,CHI,SF,Unclassified
+Jared Butler,UTA,SG,Switchable defender
+Sandro Mamukelashvili,MIL,PF,Rim running shotblocker
+Jordan McLaughlin,MIN,PG,Pitbull
+Aaron Nesmith,BOS,SF,Switchable defender
+Jamorko Pickett,DET,PF,Stretch Big
+Admiral Schofield,ORL,SF,Unclassified
+Cheick Diallo,DET,C,Unclassified
+Enes Freedom,BOS,C,Unclassified
+Nathan Knight,MIN,PF,Athletic Finisher
+KZ Okpala,MIA,PF,Switchable defender
+Brad Wanamaker,2TM,PG,Secondary Playmaker
+Brad Wanamaker,IND,PG,Secondary Playmaker
+Brad Wanamaker,WAS,PG,Pitbull
+Tomáš Satoranský,3TM,SG,Secondary Playmaker
+Tomáš Satoranský,NOP,SG,Secondary Playmaker
+Tomáš Satoranský,SAS,SF,Unclassified
+Tomáš Satoranský,WAS,PG,Secondary Playmaker
+Thanasis Antetokounmpo,MIL,SF,Athletic Finisher
+Isaiah Joe,PHI,SG,Shooter
+Tony Snell,2TM,SG,Unclassified
+Tony Snell,POR,SG,Unclassified
+Tony Snell,NOP,SG,Shooter
+Elijah Hughes,2TM,SG,Unclassified
+Elijah Hughes,UTA,SF,Unclassified
+Elijah Hughes,POR,SG,Unclassified
+Paul Millsap,2TM,C,Unclassified
+Paul Millsap,BRK,C,Unclassified
+Paul Millsap,PHI,C,Unclassified
+Jarrett Culver,MEM,SG,Unclassified
+Gorgui Dieng,ATL,C,Unclassified
+Alfonzo McKinnie,CHI,SF,Unclassified
+Kent Bazemore,LAL,SF,Switchable defender
+Tyler Cook,CHI,PF,Athletic Finisher
+Nerlens Noel,NYK,C,Rim running shotblocker
+Paul Watson,OKC,SF,Unclassified
+Juancho Hernangómez,3TM,PF,Unclassified
+Juancho Hernangómez,BOS,PF,Unclassified
+Juancho Hernangómez,SAS,PF,Unclassified
+Juancho Hernangómez,UTA,PF,Rim running shotblocker
+Semi Ojeleye,2TM,PF,Unclassified
+Semi Ojeleye,MIL,PF,Unclassified
+Semi Ojeleye,LAC,PF,Unclassified
+Tremont Waters,2TM,PG,Pitbull
+Tremont Waters,TOR,PG,Pitbull
+Tremont Waters,WAS,PG,Pitbull
+Tim Frazier,2TM,PG,Secondary Playmaker
+Tim Frazier,ORL,PG,Secondary Playmaker
+Tim Frazier,CLE,PG,Unclassified
+Sterling Brown,DAL,SG,Switchable defender
+Trent Forrest,UTA,PG,Secondary Playmaker
+Gabriel Lundberg,PHO,SG,Unclassified
+Killian Tillie,MEM,C,Unclassified
+Dalano Banton,TOR,PG,Pitbull
+Daishen Nix,HOU,SG,Pitbull
+Jahmi'us Ramsey,SAC,SG,Unclassified
+Justin Robinson,3TM,PG,Unclassified
+Justin Robinson,MIL,PG,Secondary Playmaker
+Justin Robinson,SAC,PG,Unclassified
+Justin Robinson,DET,PG,Unclassified
+Kevin Knox,2TM,SF,Unclassified
+Kevin Knox,NYK,SF,Unclassified
+Kevin Knox,ATL,SF,Unclassified
+Rodney Hood,2TM,SF,Unclassified
+Rodney Hood,MIL,PF,Unclassified
+Rodney Hood,LAC,SF,Unclassified
+Keljin Blevins,POR,SF,Unclassified
+Devontae Cacok,SAS,PF,Rim running shotblocker
+Paul Reed,PHI,C,Rim running shotblocker
+Javonte Smart,2TM,PG,Unclassified
+Javonte Smart,MIL,PG,Unclassified
+Javonte Smart,MIA,PG,Microwave
+Paris Bass,PHO,SF,Microwave
+Charles Bassey,PHI,C,Rim running shotblocker
+Tony Bradley,CHI,C,Rim running shotblocker
+Daniel Oturu,TOR,C,Rim running shotblocker
+Elfrid Payton,PHO,PG,Secondary Playmaker
+Neemias Queta,SAC,C,Unclassified
+Nick Richards,CHO,C,Rim running shotblocker
+Matt Ryan,BOS,SF,Shooter
+Tre Scott,CLE,SF,Athletic Finisher
+Bruno Fernando,2TM,C,Rim running shotblocker
+Bruno Fernando,BOS,C,Unclassified
+Bruno Fernando,HOU,C,Rim running shotblocker
+Vernon Carey Jr.,2TM,C,Unclassified
+Vernon Carey Jr.,CHO,C,Unclassified
+Vernon Carey Jr.,WAS,C,Rim running shotblocker
+Skylar Mays,ATL,SG,Glue guy
+Denzel Valentine,2TM,SG,Switchable defender
+Denzel Valentine,CLE,SG,Switchable defender
+Denzel Valentine,UTA,SG,Pitbull
+Tyler Johnson,2TM,PG,Unclassified
+Tyler Johnson,PHI,PG,Unclassified
+Tyler Johnson,SAS,PG,Pitbull
+Aleem Ford,ORL,SF,Unclassified
+Tyrone Wallace,NOP,SG,Pitbull
+Gary Clark,NOP,PF,Unclassified
+Josh Okogie,MIN,SG,Pitbull
+Jay Scrubb,LAC,SG,Unclassified
+Quinndary Weatherspoon,GSW,SG,Glue guy
+Chris Silva,2TM,PF,Glue guy
+Chris Silva,MIN,PF,Unclassified
+Chris Silva,MIA,PF,Glue guy
+Gabriel Deck,OKC,PF,Playmaking forward
+Devon Dotson,CHI,PG,Secondary Playmaker
+Juwan Morgan,2TM,PF,Athletic Finisher
+Juwan Morgan,TOR,PF,Athletic Finisher
+Juwan Morgan,BOS,PF,Unclassified
+Udonis Haslem,MIA,C,Unclassified
+Sam Hauser,BOS,SF,Unclassified
+Theo Pinson,DAL,SF,Secondary Playmaker
+Bol Bol,DEN,PF,Athletic Finisher
+Jalen Johnson,ATL,PF,Athletic Finisher
+Jake Layman,MIN,SF,Unclassified
+Abdel Nader,PHO,SF,Switchable defender
+Ish Wainright,PHO,PF,Switchable defender
+Nik Stauskas,2TM,SG,Unclassified
+Nik Stauskas,MIA,SG,Slasher
+Nik Stauskas,BOS,SG,Microwave
+Justin Champagnie,TOR,SF,Unclassified
+Freddie Gillespie,ORL,PF,Switchable defender
+Haywood Highsmith,MIA,SF,3&D Specialist
+Miles McBride,NYK,PG,Pitbull
+Jericho Sims,NYK,PF,Rim running shotblocker
+Dylan Windler,CLE,SF,Switchable defender
+Jeff Dowtin Jr.,3TM,PG,Pitbull
+Jeff Dowtin Jr.,GSW,PG,Secondary Playmaker
+Jeff Dowtin Jr.,MIL,PG,Unclassified
+Jeff Dowtin Jr.,ORL,PG,Pitbull
+Justin Jackson,2TM,SF,Unclassified
+Justin Jackson,BOS,SF,Slasher
+Justin Jackson,PHO,SF,Unclassified
+Joe Wieskamp,SAS,SG,Unclassified
+Langston Galloway,2TM,SG,Unclassified
+Langston Galloway,BRK,SG,Unclassified
+Langston Galloway,MIL,SG,Secondary Playmaker
+Luke Kornet,3TM,C,Rim running shotblocker
+Luke Kornet,CLE,C,Unclassified
+Luke Kornet,MIL,C,Unclassified
+Luke Kornet,BOS,C,Rim running shotblocker
+Ahmad Caver,IND,SG,Athletic Finisher
+Chris Chiozza,GSW,PG,Secondary Playmaker
+Damyean Dotson,NYK,SG,Athletic Finisher
+Usman Garuba,HOU,PF,Switchable defender
+Shaquille Harrison,BRK,SG,Pitbull
+Joe Johnson,BOS,SG,Athletic Finisher
+Jemerrio Jones,LAL,SF,Athletic Finisher
+Norvel Pelle,UTA,C,Rim running shotblocker
+Craig Sword,WAS,SG,Pitbull
+JT Thor,CHO,PF,Rim running shotblocker
+Cassius Winston,WAS,PG,Unclassified
+Marko Simonovic,CHI,C,Unclassified
+Alize Johnson,3TM,PF,Unclassified
+Alize Johnson,CHI,PF,Athletic Finisher
+Alize Johnson,WAS,PF,Unclassified
+Alize Johnson,NOP,PF,Unclassified
+Eugene Omoruyi,DAL,SF,Playmaking forward
+Brodric Thomas,BOS,SG,Unclassified
+Willie Cauley-Stein,2TM,C,Unclassified
+Willie Cauley-Stein,DAL,C,Unclassified
+Willie Cauley-Stein,PHI,C,Unclassified
+Wayne Selden,NYK,SG,Unclassified
+Isaiah Todd,WAS,PF,Unclassified
+Ryan Arcidiacono,NYK,PG,Unclassified
+Kevin Pangos,CLE,PG,Secondary Playmaker
+Rob Edwards,OKC,SG,Unclassified
+Emmanuel Mudiay,SAC,PG,Unclassified
+Malik Fitts,2TM,PF,Glue guy
+Malik Fitts,UTA,PF,Unclassified
+Malik Fitts,BOS,PF,Glue guy
+Charlie Brown Jr.,2TM,SG,Switchable defender
+Charlie Brown Jr.,DAL,SG,Switchable defender
+Charlie Brown Jr.,PHI,SG,Pitbull
+Leandro Bolmaro,MIN,SF,Unclassified
+Moses Wright,2TM,PF,Playmaking forward
+Moses Wright,LAC,PF,Playmaking forward
+Moses Wright,DAL,PF,Unclassified
+Darren Collison,LAL,PG,Unclassified
+Jordan Schakel,WAS,SG,Unclassified
+Myles Powell,PHI,PG,Unclassified
+Petr Cornelie,DEN,PF,Rim running shotblocker
+Tacko Fall,CLE,C,Unclassified
+Marcus Garrett,MIA,SG,Switchable defender
+RJ Nembhard Jr.,CLE,SG,Secondary Playmaker
+Yves Pons,MEM,SF,Unclassified
+Shaq Buchanan,MEM,SG,Unclassified
+Kai Jones,CHO,C,Rim running shotblocker
+Dakota Mathias,MEM,SG,Pitbull
+Deividas Sirvydis,DET,SG,Switchable defender
+Jaden Springer,PHI,SG,Athletic Finisher
+Tyrell Terry,MEM,PG,Unclassified
+McKinley Wright IV,MIN,PG,Secondary Playmaker
+Ed Davis,CLE,C,Rim running shotblocker
+Carlik Jones,2TM,PG,Unclassified
+Carlik Jones,DAL,PG,Unclassified
+Carlik Jones,DEN,PG,Microwave
+Isaac Bonga,TOR,SF,Switchable defender
+Jarron Cumberland,POR,SG,Glue guy
+Chandler Hutchison,PHO,SF,Glue guy
+DaQuan Jeffries,MEM,SG,Glue guy
+Jaylen Morris,SAS,SG,Unclassified
+Xavier Sneed,2TM,SF,Unclassified
+Xavier Sneed,MEM,SF,Unclassified
+Xavier Sneed,UTA,SF,Unclassified
+Solomon Hill,ATL,SF,Glue guy
+Robert Woodard II,SAC,SF,Unclassified
+Sharife Cooper,ATL,PG,Unclassified
+Scottie Lewis,CHO,SG,Glue guy
+Joel Ayayi,WAS,SG,Glue guy
+Aaron Henry,PHI,SF,Unclassified
+George King,DAL,SF,Unclassified
+Miye Oni,UTA,SG,Secondary Playmaker
+Cat Barber,ATL,PG,Unclassified
+Jordan Bell,CHI,C,Unclassified
+Zylan Cheatham,UTA,SF,Unclassified
+Sam Dekker,TOR,PF,Unclassified
+Javin DeLaurier,MIL,C,Unclassified
+Jaime Echenique,WAS,C,Unclassified
+Jordan Goodwin,WAS,SG,Unclassified
+Tyler Hall,NYK,SG,Unclassified
+Nate Hinton,IND,SG,Unclassified
+Jay Huff,LAL,C,Unclassified
+Feron Hunt,NYK,SF,Switchable defender
+DeJon Jarreau,IND,SG,Unclassified
+David Johnson,TOR,SG,Unclassified
+Arnoldas Kulboka,CHO,SF,Unclassified
+Anthony Lamb,SAS,SF,Playmaking forward
+JaQuori McLaughlin,DAL,PG,Unclassified
+C.J. Miles,BOS,SG,Unclassified
+Matt Mooney,NYK,SG,Switchable defender
+Ade Murkey,SAC,SG,Unclassified
+Jaysean Paige,DET,PG,Unclassified
+Trayvon Palmer,DET,SG,Unclassified
+Emanuel Terry,PHO,PF,Unclassified
+Jon Teske,MEM,C,Unclassified
+M.J. Walker,PHO,SG,Unclassified
